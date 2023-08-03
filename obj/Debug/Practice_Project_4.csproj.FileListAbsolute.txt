@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\Practice_Project_4\Practice_Project_4\bin\Debug\Practice_Project_4.exe.config
+C:\Users\Lenovo\source\repos\Practice_Project_4\Practice_Project_4\bin\Debug\Practice_Project_4.exe
+C:\Users\Lenovo\source\repos\Practice_Project_4\Practice_Project_4\bin\Debug\Practice_Project_4.pdb
+C:\Users\Lenovo\source\repos\Practice_Project_4\Practice_Project_4\obj\Debug\Practice_Project_4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Practice_Project_4\Practice_Project_4\obj\Debug\Practice_Project_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Practice_Project_4\Practice_Project_4\obj\Debug\Practice_Project_4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practice_Project_4\Practice_Project_4\obj\Debug\Practice_Project_4.exe
+C:\Users\Lenovo\source\repos\Practice_Project_4\Practice_Project_4\obj\Debug\Practice_Project_4.pdb
